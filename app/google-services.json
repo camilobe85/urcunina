@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "312676125306",
+    "firebase_url": "https://urcunina-cc643.firebaseio.com",
+    "project_id": "urcunina-cc643",
+    "storage_bucket": "urcunina-cc643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312676125306:android:bb81c1eb4cb4f043",
+        "android_client_info": {
+          "package_name": "co.novadev.urcunina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312676125306-71jkoe7rmuh08rafs1eto3p1c1g9qfii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.novadev.urcunina",
+            "certificate_hash": "ed50a547bc12b4158f20222c398e7525431b30f8"
+          }
+        },
+        {
+          "client_id": "312676125306-om1ta9cr9p2h1jft66cbaqtj67i61ets.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe87sXQEQeeIqy-oOFbfCC36wjkUESkNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312676125306-om1ta9cr9p2h1jft66cbaqtj67i61ets.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
